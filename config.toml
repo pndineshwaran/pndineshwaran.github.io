@@ -12,7 +12,7 @@ address = "Coimbatore, India"
 favicon = "/favicon.ico"
 firstName = "Dineshwaran"
 lastName = "P N"
-phone = "+91-94439-67305"
+phone = "+1-2222-555-88"
 showSocializations = true
 showContact = false
 sections = ["skills","publications","creations","contributions","experience","education","blog"]
@@ -24,7 +24,7 @@ sections = ["skills","publications","creations","contributions","experience","ed
 trackerID = "XX-123446-01"
 
 [[params.handles]]
-link = "https://www.linkedin.com/in/sathishkumarthiyagarajan/"
+link = "www.linkedin.com/in/dineshwaran-p-n-5a218a228"
 name = "LinkedIn"
 
 [[params.handles]]
