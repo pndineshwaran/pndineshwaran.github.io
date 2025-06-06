@@ -1,4 +1,4 @@
-# sathishk.github.io
+# pndineshwran.github.io
 Profile Page Sample
 
 ## Setup
