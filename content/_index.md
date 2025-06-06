@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-Proven Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud.
+UG student with interest in the field of CyberSecurity ( Red Team ) an with a focus on network security and ethical hacking. Proficient in network protocols, security tools, and penetration testing, aiming to secure and optimise systems.
