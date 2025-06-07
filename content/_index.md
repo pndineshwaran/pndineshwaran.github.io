@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-UG student with interest in the field of CyberSecurity ( Red Team ) an with a focus on network security and ethical hacking. Proficient in network protocols, security tools, and penetration testing, aiming to secure and optimise systems.
+I'm a UG student passionate about Cybersecurity, specializing in Red Team operations, network security, and ethical hacking. I work with network protocols, penetration testing tools, and security techniques to identify and fix vulnerabilities — aiming to make systems safer and smarter.
